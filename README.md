@@ -7,7 +7,8 @@
 <br />
 <h4>Currently, I am studying software engineering at Ton Duc Thang University, Ho Chi Minh city. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> !!!</h3>
 
-<br />
+<hr />
+
 ### 👨‍💻 Languages and Tools
 
 
@@ -27,7 +28,6 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://gitlab.com/haidang9b) 
 
 <hr />
-<br />
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
