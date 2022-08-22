@@ -6,7 +6,7 @@
 
 <br />
 
-<h3 align="center">Currently, I am studying software engineering at Ton Duc Thang University, Ho Chi Minh city. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> !!!</h3>
+<h3 align="center">Currently, I am a Fullstack developer, Ho Chi Minh city. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> !!!</h3>
 
 <hr />
 
