@@ -1,20 +1,14 @@
-# Hi there, I'm Dang Phan Hai 👋
+# Hey, I'm Dang 👋
 
-### 💻 Full-stack Developer | .NET | React | SQL Server/PostgresSQL | Distributed Systems
+.NET dev from Ho Chi Minh City 🇻🇳 · currently building things at **NashTech Global**
 
-- 🔧 Working mainly with **C# / .NET**, **SQL Server/PostgreSQL**, **Docker**
-- 🧠 Interested in **system design**, **security**, and **clean architecture**
-- 🚀 Building scalable APIs & microservices
+- 🛠️ I mostly live in C#, ASP.NET Core, SQL, and Azure
+- 🐢➡️🚀 Favorite hobby: making slow endpoints fast (up to 90% faster so far)
+- 🏚️➡️☁️ Also moving old legacy systems to the cloud, one service at a time
+- 🤔 Into system design, security, and clean architecture
+- 💬 Happy to chat about .NET, microservices, or anything backend
 
-### 📫 Reach me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phan-hai-dang/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:phanhaidanghq@gmail.com)](mailto:phanhaidang@gmail.com)
+**Tech I use:** C# · .NET · ASP.NET Core · EF Core · SQL Server · PostgreSQL · Redis · RabbitMQ · Azure · Docker · React · Angular
 
-
-### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
-<a href="https://github.com/haidang9b">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=haidang9b&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haidang9b&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phan-hai-dang/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phanhaidanghq@gmail.com)
